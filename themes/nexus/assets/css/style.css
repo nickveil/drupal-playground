@@ -458,11 +458,11 @@ img.grayscale {
 .flex-caption h2{
   text-transform: uppercase;
   font-size: 36px;
-  color: #000;
+  color: #fff;
 }
 
 .flex-caption h2 a:link, .flex-caption h2 a:visited{
-  color: #000;
+  color: #fff;
 }
 
 .flex-caption p{
